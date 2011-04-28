@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="aRenberg.description.d.Description"/>
+    <classEntry path="aRenberg.description.common.AccessType"/>
+    <classEntry path="aRenberg.description.common.ClassRef"/>
+    <classEntry path="aRenberg.description.common.DescriptorType"/>
+    <classEntry path="aRenberg.description.common.MemberType"/>
+    <classEntry path="aRenberg.description.metadata.IMetadata"/>
+    <classEntry path="aRenberg.description.metadata.Metadata"/>
+    <classEntry path="aRenberg.description.metadata.MetadataUtils"/>
+    <classEntry path="aRenberg.description.d.DMethodParameter"/>
+    <classEntry path="aRenberg.description.d.DMethod"/>
+    <classEntry path="aRenberg.description.d.DConstant"/>
+    <classEntry path="aRenberg.description.d.DMember"/>
+    <classEntry path="aRenberg.description.d.DAccessor"/>
+    <classEntry path="aRenberg.description.d.DVariable"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
